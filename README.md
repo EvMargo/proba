@@ -1,2 +1,2 @@
 # proba
-https://evmargo.github.io/proba/.
+https://evmargo.github.io/proba/
